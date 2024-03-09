@@ -1,29 +1,32 @@
 {
-  "name": "pro-news",
-  "version": "0.1.0",
-  "private": true,
-  "scripts": {
-    "dev": "vue-cli-service serve --mode development",
-    "build": "vue-cli-service build --mode production",
-    "lint": "vue-cli-service lint"
-  },
-  "dependencies": {
-    "axios": "^0.18.0",
-    "core-js": "^2.6.5",
-    "vue": "^2.6.10",
-    "vue-router": "^3.0.3",
-    "vuex": "^3.0.1"
-  },
-  "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.6.0",
-    "@vue/cli-plugin-eslint": "^3.6.0",
-    "@vue/cli-service": "^3.6.0",
-    "@vue/eslint-config-prettier": "^4.0.1",
-    "babel-eslint": "^10.0.1",
-    "eslint": "^5.16.0",
-    "eslint-plugin-vue": "^5.0.0",
-    "less": "^3.0.4",
-    "less-loader": "^4.1.0",
-    "vue-template-compiler": "^2.5.21"
-  }
+	"name": "fre123_web",
+	"private": true,
+	"scripts": {
+		"build": "nuxt build",
+		"dev": "nuxt dev",
+		"generate": "nuxt generate",
+		"preview": "nuxt preview",
+		"postinstall": "nuxt prepare"
+	},
+	"devDependencies": {
+		"@nuxt/devtools": "latest",
+		"@types/node": "^18.16.19",
+		"nuxt": "^3.6.2",
+		"sass": "^1.63.6"
+	},
+	"dependencies": {
+		"@fortawesome/fontawesome-svg-core": "6.5.0",
+		"@fortawesome/free-brands-svg-icons": "5.15.4",
+		"@fortawesome/free-regular-svg-icons": "5.15.4",
+		"@fortawesome/free-solid-svg-icons": "5.15.4",
+		"@fortawesome/vue-fontawesome": "3.0.5",
+		"@nuxtjs/tailwindcss": "6.10.1",
+		"@pinia/nuxt": "0.4.11",
+		"@vueuse/core": "10.7.0",
+		"@vueuse/nuxt": "10.7.0",
+		"nuxt-icon": "0.6.7",
+		"ohmyfetch": "0.4.21",
+		"@pinia-plugin-persistedstate/nuxt": "1.2.0",
+		"yarn": "1.22.21"
+	}
 }
