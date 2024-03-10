@@ -1,14 +1,14 @@
 {
 	"base": {
-		"app_name": "FRE123",
-		"web_host": "https://www.fre123.com",
-		"logo": "https://img.fre123.com/i/2023/11/25/65619e8022505.png"
+		"app_name": "AIC123",
+		"web_host": "https://AIC.xtwang.top/",
+		"logo": "https://meiyanxiu.oss-cn-beijing.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240310204957.png"
 	},
 	"seo": {
-		"title": "FRE123 免费资源共享平台",
-		"description": "FRE123 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具等。无论您在寻找哪种资源，我们都将尽力为您提供，为您的学习或工作助力",
-		"keywords": "FRE123, 免费资源, 优质资源, 资源聚合, 在线资源, 影视资源, 动漫番剧, 软件工具, 网盘资源",
-		"icon": "https://img.fre123.com/i/2023/11/25/65619e791f166.ico"
+		"title": "AIC123 免费资源共享平台",
+		"description": "AIC123 专注于为您提供各种免费优质资源，包括影视资源、动漫番剧、软件工具等。无论您在寻找哪种资源，我们都将尽力为您提供，为您的学习或工作助力",
+		"keywords": "AIC123, 免费资源, 优质资源, 资源聚合, 在线资源, 影视资源, 动漫番剧, 软件工具, 网盘资源",
+		"icon": "https://meiyanxiu.oss-cn-beijing.aliyuncs.com/161229155190231137135-20240310204957.ico"
 	},
 	"header": {
 		"search": {
@@ -60,32 +60,15 @@
 		"is_show": true,
 		"list": [
 			{
-				"icon_class": "fab fa-weixin",
-				"icon_size": 20,
-				"icon_color": "#00b140",
-				"icon_hover_color": "#008733",
-				"text": "有兴趣加我进群聊聊",
-				"img": "https://img.fre123.com/i/2023/12/03/656c990d9fbb8.jpeg",
-				"url": ""
-			},
-			{
-				"icon_class": "fab fa-telegram-plane",
-				"icon_size": 20,
-				"icon_color": "#0088cc",
-				"icon_hover_color": "#085b85",
-				"text": "关注老胡TG信息流频道",
-				"img": "",
-				"url": "https://t.me/howie_weekly"
-			},
-			{
 				"icon_class": "fas fa-comment-dots",
 				"icon_size": 20,
 				"icon_color": "#0088cc",
 				"icon_hover_color": "#085b85",
-				"text": "FRE123 期待您的建议反馈",
-				"img": "",
-				"url": "https://txc.qq.com/products/617721"
+				"text": "AIC123 期待您的建议反馈",
+				"img": "https://meiyanxiu.oss-cn-beijing.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240310210451.png",
+				"url": ""
 			}
+			
 		]
 	},
 	"footer": {
@@ -95,22 +78,19 @@
 				{
 					"icon_class": "fas fa-comment-dots",
 					"icon_size": 20,
-					"url": "https://github.com/fre123-com"
+					"url": "https://meiyanxiu.oss-cn-beijing.aliyuncs.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20240310210451.png"
 				},
 				{
 					"icon_class": "fab fa-telegram-plane",
-					"icon_size": 20,
-					"url": "https://t.me/howie_weekly"
+					"icon_size": 20
 				},
 				{
 					"icon_class": "fas fa-blog",
-					"icon_size": 20,
-					"url": "https://www.fre123.com/weekly"
+					"icon_size": 20
 				},
 				{
 					"icon_class": "fas fa-qrcode",
-					"icon_size": 20,
-					"url": "https://cdn.jsdelivr.net/gh/howie6879/weekly/src/statics/wechat.jpeg"
+					"icon_size": 20
 				}
 			]
 		}

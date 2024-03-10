@@ -6,11 +6,13 @@
 				<span
 					>Powered by
 					<a
-						href="https://www.fre123.com"
+						href="https://AIC.xtwang.top/"
 						target="_blank"
 						class="decoration-transparent text-[#a4715c]"
-						>FRE123</a
+						>AIC123</a
 					>
+					<a class="ml-3" href="https://beian.miit.gov.cn/" target="_blank">备案号-</a>
+					<a href="https://beian.miit.gov.cn/" target="_blank">鄂ICP备2024038354号-2</a>
 				</span>
 			</div>
 			<!-- Left -->
